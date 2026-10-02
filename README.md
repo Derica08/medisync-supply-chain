@@ -1,4 +1,5 @@
 # Medisync
+https://medisync-supply-chain.onrender.com/
 
 Medisync is an accessible medicine inventory and supply-chain demonstration. It includes a browser frontend and a small Node.js backend with a local JSON store. All medicines, people, shipments, suppliers, and actions are fictional demo records. It does not connect to pharmacies, patients, suppliers, barcode databases, SMS/WhatsApp, or live logistics.
 
